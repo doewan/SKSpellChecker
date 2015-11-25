@@ -1,0 +1,2 @@
+# SKSpellChecker
+SwiftKey SpellChecker
